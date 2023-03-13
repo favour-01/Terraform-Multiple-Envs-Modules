@@ -1,0 +1,6 @@
+ami_id            = "ami-0c9978668f8d55984"
+instance_type     = "t2.micro"
+availability_zone = "us-east-1a"
+name              = "QA_Instance"
+env               = "Stg"
+region            = "us-east-1"
